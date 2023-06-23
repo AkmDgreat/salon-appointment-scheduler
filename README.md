@@ -1,17 +1,23 @@
-// Here are two examples of the output of a passing script:
+# Salon appointment scheduler
+
+This is a required project for FCC certification
+
+Here are two examples of the output when the `salon.sh` script runs:
 
 ~~~~~ MY SALON ~~~~~
 
-Welcome to My Salon, how can I help you?
+Welcome to My Salon, these are the services that we offer:
 
 1) cut
 2) color
 3) perm
 4) style
 5) trim
+
+Choose a service ID to book the service
 10
 
-I could not find that service. What would you like today?
+Please enter a valid service id
 1) cut
 2) color
 3) perm
@@ -35,13 +41,15 @@ I have put you down for a cut at 10:30, Fabio.
 
 ~~~~~ MY SALON ~~~~~
 
-Welcome to My Salon, how can I help you?
+Welcome to My Salon, these are the services that we offer:
 
 1) cut
 2) color
 3) perm
 4) style
 5) trim
+
+Choose a service ID to book the service
 2
 
 What's your phone number?
